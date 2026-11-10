@@ -50,9 +50,9 @@ Arch 5 (prefix-LM) from Phase 1 was tried as a bidirectional tagger so that a na
 | 974276 | Partial fine-tuning | `phase2_all_techniques_run_all` | 0.4617 |
 | 974277 | Norm-only tuning | `phase2_all_techniques_run_all` | 0.4132 |
 | 974524 | Full FT (seed 42) | `phase2_all_techniques_run_all` | 0.4663 |
-| 976576 | Full FT, "rep1pos1" variant | *notebook to be added* | 0.4635 |
-| 976578 | Adapters, "rep1pos1" variant (second run) | *notebook to be added* | 0.4665 |
-| 978241 | Ensemble | *notebook to be added* | 0.4635 |
+| 976576 | Full FT, "rep1pos1" variant | `phase2_rep1pos1_full` | 0.4635 |
+| 976578 | Adapters, "rep1pos1" variant (second run) |  `phase2_rep1pos1_adapter` | 0.4665 |
+| 978241 | Ensemble |  `phase2_ensemble` | 0.4635 |
 
 ## Results and analysis
 
