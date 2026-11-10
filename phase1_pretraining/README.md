@@ -52,7 +52,7 @@ Nucleus sampling at the temperature given above. The continuation is decoded bac
 | Codabench ID | Architecture | Notebook | BERTScore F1 |
 |---|---|---|---|
 | 954458 | Arch 1, first run (final-step checkpoint) | `phase1_decoder.ipynb` | 0.8297 |
-| 961143 | **Arch 1, retrained with best-checkpoint selection (step 5,700, val loss 1.998)** | *notebook to be added* | **0.8300** |
+| 961143 | **Arch 1, retrained with best-checkpoint selection (step 5,700, val loss 1.998)** | `phase1_decoder_retrain.ipynb` | **0.8300** |
 | 956491 | Arch 3, encoder–decoder | `phase1_encoder_decoder.ipynb` | 0.8160 |
 | 956656 | Arch 2, local attention + memory | `phase1_local_memory.ipynb` | 0.7581 |
 | 958201 | Arch 5, prefix-LM | `phase1_prefix_lm.ipynb` | 0.8191 |
