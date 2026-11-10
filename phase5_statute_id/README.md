@@ -61,10 +61,10 @@ The KD notebooks load their teacher from a checkpoint in a Kaggle dataset (`TEAC
 | 1013776 | KD, train+dev, full teacher, thr 0.30 | `p5_kd_trainplusdev_full_teacher_thr030` | 0.3515 |
 | 1014531 | KD, train+dev, LWAN teacher, thr 0.30 | `p5_kd_trainplusdev_lwan_teacher_thr030` | 0.3589 |
 | 1016729 | LoRMA+ | `p5_lorma` | 0.3379 |
-| 1011891 | Ensemble (failed submission) | *notebook to be added* | – |
-| 1016705 | Ensemble 1 | *notebook to be added* | 0.3764 |
-| 1016745 | Ensemble 2 (failed submission) | *notebook to be added* | – |
-| 1016753 | Ensemble 3 | *notebook to be added* | 0.4077 |
+| 1011891 | Ensemble  | `p5_ensemble` | 0.3971 |
+| 1016705 | Ensemble 1 | `p5_ensemble1` | 0.3764 |
+| 1016745 | Ensemble 2 | `p5_ensemble2` | 0.4021 |
+| 1016753 | Ensemble 3 | `p5_ensemble3` | 0.4077 |
 
 ## Results and analysis
 
