@@ -1,0 +1,9 @@
+*.pt
+*.pth
+*.safetensors
+*.zip
+*.bin
+__pycache__/
+.ipynb_checkpoints/
+raw_text/
+
